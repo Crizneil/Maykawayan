@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"church_ambience",
+  "audioGroupId":{
+    "name":"ambience",
+    "path":"audiogroups/ambience",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":16.325102,
+  "exportDir":"",
+  "name":"church_ambience",
+  "parent":{
+    "name":"ambience",
+    "path":"folders/Sounds/ambience.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"church_ambience.ogg",
+  "volume":1.0,
+}

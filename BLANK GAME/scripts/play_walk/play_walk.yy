@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"play_walk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"play_walk",
+  "parent":{
+    "name":"player_sfx",
+    "path":"folders/Scripts/player_sfx.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

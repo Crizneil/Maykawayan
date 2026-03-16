@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"forest_wave",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"forest_wave",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

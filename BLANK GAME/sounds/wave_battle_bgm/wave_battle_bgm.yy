@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"wave_battle_bgm",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":218.62839,
+  "exportDir":"",
+  "name":"wave_battle_bgm",
+  "parent":{
+    "name":"bgm",
+    "path":"folders/Sounds/bgm.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"wave_battle_bgm.ogg",
+  "volume":0.9,
+}

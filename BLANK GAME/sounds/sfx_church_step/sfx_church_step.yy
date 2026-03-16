@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfx_church_step",
+  "audioGroupId":{
+    "name":"player",
+    "path":"audiogroups/player",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.5734467,
+  "exportDir":"",
+  "name":"sfx_church_step",
+  "parent":{
+    "name":"player",
+    "path":"folders/Sounds/player.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_church_step.ogg",
+  "volume":0.55,
+}

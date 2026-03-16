@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sfx_cave_step",
+  "audioGroupId":{
+    "name":"player",
+    "path":"audiogroups/player",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.36585033,
+  "exportDir":"",
+  "name":"sfx_cave_step",
+  "parent":{
+    "name":"player",
+    "path":"folders/Sounds/player.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_cave_step.ogg",
+  "volume":0.23,
+}

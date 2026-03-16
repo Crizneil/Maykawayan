@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"main_menu_bgm",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":107.6956,
+  "exportDir":"",
+  "name":"main_menu_bgm",
+  "parent":{
+    "name":"bgm",
+    "path":"folders/Sounds/bgm.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"main_menu_bgm.ogg",
+  "volume":1.0,
+}
