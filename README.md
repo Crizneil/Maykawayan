@@ -33,6 +33,3 @@
 2. Press **F5** to run the game.
 3. Explore the world of Maykawayan!
 
----
-
-*Developed with passion for the forest and adventure.*
