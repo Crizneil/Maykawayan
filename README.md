@@ -1,7 +1,5 @@
 # Maykawayan
-
-![Maykawayan Banner](./assets/banner.png)
-
+ 
 **Maykawayan** is a vibrant, forest-themed action-platformer built with GameMaker. Embark on a journey through mystical environments, battling enemies and exploring deep caves and ancient churches.
 
 ## Features
